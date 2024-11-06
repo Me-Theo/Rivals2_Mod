@@ -4,6 +4,17 @@
 
 ## Instaltion
 ### Windows
+- Download one of the .pak file
+- go to steam
+- right click on the game
+- "Manage"
+- click on "Browse local file"
+- on the folder, open the folder "rivals2"
+- open "Content"
+- open "Paks"
+- create a folder named "mods"
+- place the .pak file on the "mods" folder
+- launche the game and bam it's modded
 
 ## Mods list
 <!-- |name|desc|<img src="link" width="200">|- [name](link)| -->
@@ -26,7 +37,7 @@
 |My orcan pallette - Red|my test to make my pallet - Red skin|<img src="MyOrcanPal/red.png" width="200">|- [Over default default](https://github.com/Me-Theo/Rivals2_Mod/releases/download/MyOrcanColor_Red/MyOrcanColor_Red-default-red_P.pak)<br> - [All palette](https://github.com/Me-Theo/Rivals2_Mod/releases/download/MyOrcanColor_Red/MyOrcanColor_P.pak)|
 |My orcan pallette - Blue|my test to make my pallet - Blue skin|<img src="MyOrcanPal/blue.png" width="200">|- [Over default default](https://github.com/Me-Theo/Rivals2_Mod/releases/download/MyOrcanColor_Red/MyOrcanColor_Blue-default-blue_P.pak)<br> - [All palette](https://github.com/Me-Theo/Rivals2_Mod/releases/download/MyOrcanColor_Red/MyOrcanColor_P.pak)|
 
-### Ranno
+#### Ranno
 |Name|Desciption|Galerie|Link|
 |--|--|--|--|
 |Non binary Ranno |Ranno skin based non binary flag|<img src="NonBinaryRanno/ranoNonbi.png" width="200">|- [Over default Blue](https://github.com/Me-Theo/Rivals2_Mod/releases/download/Non_Binary_Ranno/NonBinaryRanno_default_blue_P.pak)|
