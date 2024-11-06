@@ -1,6 +1,5 @@
 # Rivals2_Mod
- Repo of all mods i made during class
-
+ Repo of all mods i made during class cause i'm board
 
 ## Instaltion
 ### Windows
