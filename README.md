@@ -61,12 +61,12 @@ Repo of all mods i made during class
 |Amoug us twerk hello message|Replace hello message emote with amoug us twerking|<img src="AmougUs_Twerk_HelloMessage/8a8b2781551437b052d0ce67c355188e.gif" width="200">|- [Over hello message gif](https://github.com/Me-Theo/Rivals2_Mod/releases/download/AmougUs_tweek_hello_message/AmougUs_Twerk_HelloMessage_P.pak)|
 
 ## Tool
-[Fmodel](https://github.com/4sval/FModel)
-[HxD](https://mh-nexus.de/en/hxd/)
-[Blender](https://www.blender.org/)
-[UE4-DDS-Tools-v0.6.1-GUI](https://github.com/matyalatte/UE4-DDS-Tools)
+[Fmodel](https://github.com/4sval/FModel)<br>
+[HxD](https://mh-nexus.de/en/hxd/)<br>
+[Blender](https://www.blender.org/)<br>
+[UE4-DDS-Tools-v0.6.1-GUI](https://github.com/matyalatte/UE4-DDS-Tools)<br>
 
 ## Special thanks
-those guides from [@jonnobo8821](https://www.youtube.com/@jonnobo8821)
-[Guide 1](https://www.youtube.com/watch?v=y4mOaiNPdPg)
+those guides from [@jonnobo8821](https://www.youtube.com/@jonnobo8821)<br>
+[Guide 1](https://www.youtube.com/watch?v=y4mOaiNPdPg)<br>
 [Guide 2](https://www.youtube.com/watch?v=DHfm4jghRR8)
