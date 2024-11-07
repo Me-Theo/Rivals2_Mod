@@ -42,6 +42,12 @@ Repo of all mods i made during class
 |--|--|--|--|
 |Non binary Ranno |Ranno skin based non binary flag|<img src="NonBinaryRanno/ranoNonbi.png" width="200">|- [Over default Blue](https://github.com/Me-Theo/Rivals2_Mod/releases/download/Non_Binary_Ranno/NonBinaryRanno_default_blue_P.pak)|
 
+#### Loxodont
+|Name|Desciption|Galerie|Link|
+|--|--|--|--|
+|Loxodedede|Loxodon skin inspired by king dedede or the genie in aladin, or smurf, idk|<img src="Loxodedede\untitled.png" width="200">|- [Over default Blue](https://github.com/Me-Theo/Rivals2_Mod/releases/download/Loxodedede/LoxoDedede_default-blue_P.pak)|
+
+
 ### Other
 
 #### Icon
